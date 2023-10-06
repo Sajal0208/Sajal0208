@@ -38,5 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajal0208&show_icons=true&locale=en" alt="sajal0208" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajal0208&" alt="sajal0208" /></p>
-
-Soya sauce
