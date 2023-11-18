@@ -32,14 +32,12 @@ I have a passion for coding and building products from scratch, a quality that s
 
 <div width="100%" align="center"><a href="https://github.com/Sajal0208/chatify" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajal0208&repo=chatify&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Sajal0208/streamify" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajal0208&repo=streamify&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/Sajal0208/solve-quest" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajal0208&repo=solve-quest&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-### Support Me
+<br />
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/sajaldewangan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<p>
+<div width="100%" align="center">
+<div style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/sajaldewangan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></div>
+</div>
+</p>
