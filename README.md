@@ -12,7 +12,6 @@ I have a passion for coding and building products from scratch, a quality that s
 * 🚀  I'm currently working on [Chatify](http://github.com/Sajal0208/chatify)
 * 🧠  I'm learning System Design and DevOps
 * 🤝  I'm open to collaborating on any M/PERN + LLM projects
-* ⚡  Don't hate me but DSA hiring doesn't make any sense
 
 ### Skills
 
