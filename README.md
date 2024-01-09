@@ -9,7 +9,7 @@ I have a passion for coding and building products from scratch, a quality that s
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [sajaldewangan.netlify.app](http://sajaldewangan.netlify.app/)
 * ✉️  You can contact me at [sajaldewangan@gmail.com](mailto:sajaldewangan@gmail.com)
-* 🚀  I'm currently working on [Chatify](http://github.com/Sajal0208/chatify)
+* 🚀  I'm currently working on [integrateme-io](https://github.com/Sajal0208/integrateme-io-monorepo)
 * 🧠  I'm learning System Design and DevOps
 * 🤝  I'm open to collaborating on any M/PERN + LLM projects
 
