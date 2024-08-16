@@ -7,7 +7,7 @@ Full-Stack Developer
 I have a passion for coding and building products from scratch, a quality that serves as both my greatest strength and weakness. My dream is to build and work with people in Silicon Valley. I began my full-time job during my second year of college as a React Developer at Metafic, providing me with a head start in my career. I am excited for what's coming my way and I am ready to tackle it with every neuron in my brain. I am actively looking for Remote opportunities. Wanna Be CEO of Nomad Developers.
 
 * 🌍  I'm based in Bangalore, India
-* 🖥️  See my portfolio at [sajaldewangan.netlify.app](http://sajaldewangan.netlify.app/)
+* 🖥️  See my portfolio at [sajaldewangan.com](https://www.sajaldewangan.com)
 * ✉️  You can contact me at [sajaldewangan@gmail.com](mailto:sajaldewangan@gmail.com)
 * 🧠  I'm learning Rust and Solana
 * 🤝  I'm open to collaborating on any M/PERN + LLM or Any Blockchain projects
