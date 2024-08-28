@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I have a passion for coding and building products from scratch, a quality that serves as both my greatest strength and weakness. My dream is to build and work with people in Silicon Valley. I began my full-time job during my second year of college as a React Developer at Metafic, providing me with a head start in my career. I am excited for what's coming my way and I am ready to tackle it with every neuron in my brain. I am actively looking for Remote opportunities. Wanna Be CEO of Nomad Developers.
+I don't use JS, I only use TS. Core JS hater. 
 
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [sajaldewangan.com](https://www.sajaldewangan.com)
