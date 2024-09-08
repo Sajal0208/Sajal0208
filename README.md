@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I don't use JS, I only use TS. Core JS hater. 
+TS is Love
 
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [sajaldewangan.com](https://www.sajaldewangan.com)
